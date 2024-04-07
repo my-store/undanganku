@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/undanganku/static/css/main.f33e34ac.css",
+    "main.js": "/undanganku/static/js/main.454eb380.js",
+    "static/media/Christina-Perri-A-Thousand-Years.mp3": "/undanganku/static/media/Christina-Perri-A-Thousand-Years.46806fefd2045e79a7a8.mp3",
+    "static/media/Starry-Night.mp3": "/undanganku/static/media/Starry-Night.0c07e203bfa741c46089.mp3",
+    "static/media/Katy-Perry-Unconditionally.mp3": "/undanganku/static/media/Katy-Perry-Unconditionally.8b0ff6f6c62a0b23c20b.mp3",
+    "static/media/Keane-Somewhere-Only-We-Know.mp3": "/undanganku/static/media/Keane-Somewhere-Only-We-Know.8d0752252500f5b29028.mp3",
+    "static/media/Background-2.jpg": "/undanganku/static/media/Background-2.242535e8d569e6226040.jpg",
+    "static/media/Bismillah.png": "/undanganku/static/media/Bismillah.310f73ce2c07eff14ac9.png",
+    "static/media/CampanaScript.otf": "/undanganku/static/media/CampanaScript.d1d5c7304f708ff7b4aa.otf",
+    "static/media/Frame-Round-1.png": "/undanganku/static/media/Frame-Round-1.67212a9826acbe89e1c8.png",
+    "static/media/Curtain-Background.png": "/undanganku/static/media/Curtain-Background.c44a9747adfde92a6914.png",
+    "static/media/InsyaAllah.png": "/undanganku/static/media/InsyaAllah.9381c48e20bf2f089f3b.png",
+    "static/media/AdorableHandmade.ttf": "/undanganku/static/media/AdorableHandmade.2841e8b46305f6e17e36.ttf",
+    "static/media/Cultural.ttf": "/undanganku/static/media/Cultural.fe7420d543e8fe85e082.ttf",
+    "static/media/Frame-Square.png": "/undanganku/static/media/Frame-Square.1cb8a238d694e9b791c4.png",
+    "static/media/Mempelai.jpg": "/undanganku/static/media/Mempelai.99742bd8edf8ed8d3337.jpg",
+    "static/media/Walimatul-Ursy.png": "/undanganku/static/media/Walimatul-Ursy.e488636e9432f3786e6c.png",
+    "static/media/TheConstellation.ttf": "/undanganku/static/media/TheConstellation.3c1987a9dc5a9f1a9184.ttf",
+    "static/media/jazakumullah.png": "/undanganku/static/media/jazakumullah.221fec7ef68623547a43.png",
+    "static/media/Mempelai-Pria.jpg": "/undanganku/static/media/Mempelai-Pria.af92ea759c236ef96b4a.jpg",
+    "static/media/Mempelai-Wanita.jpg": "/undanganku/static/media/Mempelai-Wanita.add0fd85c9f0d77dfc47.jpg",
+    "static/media/heart.svg": "/undanganku/static/media/heart.3c21e461574cec611adc47a5198a8dfb.svg",
+    "index.html": "/undanganku/index.html",
+    "main.f33e34ac.css.map": "/undanganku/static/css/main.f33e34ac.css.map",
+    "main.454eb380.js.map": "/undanganku/static/js/main.454eb380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f33e34ac.css",
+    "static/js/main.454eb380.js"
+  ]
+}
