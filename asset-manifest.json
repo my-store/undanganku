@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/undanganku/static/css/main.1f6e147f.css",
-    "main.js": "/undanganku/static/js/main.3536cb8a.js",
+    "main.css": "/undanganku/static/css/main.696b4a76.css",
+    "main.js": "/undanganku/static/js/main.36fcb0b3.js",
     "static/media/Christina-Perri-A-Thousand-Years.mp3": "/undanganku/static/media/Christina-Perri-A-Thousand-Years.46806fefd2045e79a7a8.mp3",
     "static/media/Unknown-Starry-Night.mp3": "/undanganku/static/media/Unknown-Starry-Night.0c07e203bfa741c46089.mp3",
     "static/media/Katy-Perry-Unconditionally.mp3": "/undanganku/static/media/Katy-Perry-Unconditionally.8b0ff6f6c62a0b23c20b.mp3",
@@ -23,11 +23,11 @@
     "static/media/Mempelai-Wanita.jpg": "/undanganku/static/media/Mempelai-Wanita.add0fd85c9f0d77dfc47.jpg",
     "index.html": "/undanganku/index.html",
     "static/media/heart.svg": "/undanganku/static/media/heart.3c21e461574cec611adc47a5198a8dfb.svg",
-    "main.1f6e147f.css.map": "/undanganku/static/css/main.1f6e147f.css.map",
-    "main.3536cb8a.js.map": "/undanganku/static/js/main.3536cb8a.js.map"
+    "main.696b4a76.css.map": "/undanganku/static/css/main.696b4a76.css.map",
+    "main.36fcb0b3.js.map": "/undanganku/static/js/main.36fcb0b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f6e147f.css",
-    "static/js/main.3536cb8a.js"
+    "static/css/main.696b4a76.css",
+    "static/js/main.36fcb0b3.js"
   ]
 }
